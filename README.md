@@ -1,0 +1,1 @@
+# ImageJGetDM3DM4Magnifications
